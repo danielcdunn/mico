@@ -1,6 +1,3 @@
-#NEEDS:
-#Add code to verify that the end number of metaroutes makes sense relative to the original number of routes and the number of routes lost when sites are aggregated together in a metasite
-
 
 # load required libraries 
 library(tidyverse)
