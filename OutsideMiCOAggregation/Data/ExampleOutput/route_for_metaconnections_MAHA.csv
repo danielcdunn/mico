@@ -1,10 +1,10 @@
 "Species","CommonName","ZoteroID","Type","ID","Method","SiteFrom","SiteTo","SitesBetween","NumIndividuals","MonthsStart","MonthsEnd","UniqueID_from","UniqueID_to","FromLong","FromLat","ToLong","ToLat","MetasiteID_from","MetasiteID_to","Self"
-"MAHA","Northern Giant Petrel","DINI7AH9","Route",1,"Telemetry","A","B",NA,6,"6Unk","6Unk","DINI7AH9_A","DINI7AH9_B",60,-48,51,-46,"AE","AG",FALSE
-"MAHA","Northern Giant Petrel","DINI7AH9","Connection",2,"Telemetry","A","C",NA,10,"10Unk","10Unk","DINI7AH9_A","DINI7AH9_C",60,-48,112,-54,"AE","AP",FALSE
-"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",1,"Mark-recapture","A","B",NA,9,"9Unk","9Unk","RGT9T9HG_A","RGT9T9HG_B",158.855733,-54.626549,146,-40,"AD","AJ",FALSE
-"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",2,"Mark-recapture","A","C",NA,3,"3Unk","3Unk","RGT9T9HG_A","RGT9T9HG_C",158.855733,-54.626549,60,-40,"AD","AE",FALSE
-"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",3,"Mark-recapture","A","D",NA,2,"2Unk","2Unk","RGT9T9HG_A","RGT9T9HG_D",158.855733,-54.626549,115,-35,"AD","AM",FALSE
-"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",4,"Mark-recapture","A","E",NA,5,"5Unk","5Unk","RGT9T9HG_A","RGT9T9HG_E",158.855733,-54.626549,18,-34,"AD","AN",FALSE
-"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",5,"Mark-recapture","A","F",NA,1,"1Unk","1Unk","RGT9T9HG_A","RGT9T9HG_F",158.855733,-54.626549,-3,-18,"AD","AS",FALSE
-"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",6,"Mark-recapture","A","G",NA,3,"3Unk","3Unk","RGT9T9HG_A","RGT9T9HG_G",158.855733,-54.626549,-72,-30,"AD","AO",FALSE
-"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",7,"Mark-recapture","A","H",NA,1,"1Unk","1Unk","RGT9T9HG_A","RGT9T9HG_H",158.855733,-54.626549,90,-40,"AD","AT",FALSE
+"MAHA","Northern Giant Petrel","DINI7AH9","Route",1,"Telemetry","A","B",NA,6,"6Unk","6Unk","DINI7AH9_A","DINI7AH9_B",60,-48,51,-46,"AF","AH",FALSE
+"MAHA","Northern Giant Petrel","DINI7AH9","Connection",2,"Telemetry","A","C",NA,10,"10Unk","10Unk","DINI7AH9_A","DINI7AH9_C",60,-48,112,-54,"AF","AR",FALSE
+"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",1,"Mark-recapture","A","B",NA,9,"9Unk","9Unk","RGT9T9HG_A","RGT9T9HG_B",158.855733,-54.626549,146,-40,"AD","AL",FALSE
+"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",2,"Mark-recapture","A","C",NA,3,"3Unk","3Unk","RGT9T9HG_A","RGT9T9HG_C",158.855733,-54.626549,60,-40,"AD","AF",FALSE
+"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",3,"Mark-recapture","A","D",NA,2,"2Unk","2Unk","RGT9T9HG_A","RGT9T9HG_D",158.855733,-54.626549,115,-35,"AD","AO",FALSE
+"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",4,"Mark-recapture","A","E",NA,5,"5Unk","5Unk","RGT9T9HG_A","RGT9T9HG_E",158.855733,-54.626549,18,-34,"AD","AP",FALSE
+"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",5,"Mark-recapture","A","F",NA,1,"1Unk","1Unk","RGT9T9HG_A","RGT9T9HG_F",158.855733,-54.626549,-3,-18,"AD","AU",FALSE
+"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",6,"Mark-recapture","A","G",NA,3,"3Unk","3Unk","RGT9T9HG_A","RGT9T9HG_G",158.855733,-54.626549,-72,-30,"AD","AQ",FALSE
+"MAHA","Northern Giant Petrel","RGT9T9HG","Connection",7,"Mark-recapture","A","H",NA,1,"1Unk","1Unk","RGT9T9HG_A","RGT9T9HG_H",158.855733,-54.626549,90,-40,"AD","AV",FALSE
