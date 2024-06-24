@@ -158,9 +158,6 @@ ref_sites$UniqueID_to <- ref_sites$UniqueID
 
 #Get rid of any sites without georeferenced locations
 sites_pts <- ref_sites %>% subset(!(is.na(Long) | is.na(Lat))) 
-#Generate output files for each species selected
-exportfile <- paste("Data/georeferenced_sites_", spp, "_draft.csv", sep="")
-write.csv(sites_pts, exportfile, row.names = FALSE)
 
 
 #Identify the ocean basin of the site to eliminate aggregation across basins in the aggregation script 
